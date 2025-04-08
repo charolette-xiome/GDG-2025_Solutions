@@ -18,18 +18,26 @@ Python Backend: Handles routing, logic, and interaction with the ML model.
 
 📁 File Structure
 php
-Copy
-Edit
+
 project/
 ├── app.py               # Main backend application
+
 ├── ml_model.py          # Machine learning model logic
+
 ├── requirements.txt     # Python dependencies
+
 ├── templates/
+
 │   ├── index.html       # Login page
+
 │   └── dashboard.html   # Dashboard after submission
+
 ├── static/
+
 │   ├── script.js        # Client-side JavaScript logic
+
 │   └── style.css        # Application styling
+
 🛠️ Technologies Used
 Frontend
 HTML5
